@@ -3,12 +3,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 Run the development server:
-
 ```bash
 npm run dev
+```
 
-Build
+Build Project:
+```bash
 npm run build
 ```
+
 
 
